@@ -1,6 +1,5 @@
 package com.crud.model;
 
-import com.sun.xml.internal.ws.developer.SchemaValidation;
 import javax.persistence.*;
 
 @Entity
